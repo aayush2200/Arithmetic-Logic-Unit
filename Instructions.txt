@@ -1,0 +1,11 @@
+alu.vhd is the main entity file.
+
+alu_tb.vhd is the testbench.
+
+Output waveform is the snip of Simulation.
+
+Rest files are entity files used to create other components and all
+
+
+Aayush Shrivastava
+19D070002
